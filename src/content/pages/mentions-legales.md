@@ -5,10 +5,6 @@ title: Mentions légales
 desc: Éditeur, hébergeur, propriété intellectuelle et responsabilité du site.
 ---
 
-:::warning À compléter avant la mise en ligne définitive
-Les champs entre crochets doivent être renseignés dans le fichier `src/config.mjs`. Ce modèle est fourni à titre indicatif et ne constitue pas un conseil juridique.
-:::
-
 ## Éditeur du site
 
 - Nom ou raison sociale : {{legal.editorName}}
