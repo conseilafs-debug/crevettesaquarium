@@ -10,7 +10,7 @@ export const site = {
 
   // URL publique. Définir la variable d'environnement SITE_URL dans Cloudflare Pages
   // (ex. https://mon-projet.pages.dev, puis le domaine définitif plus tard).
-  url: (process.env.SITE_URL || 'https://crevettes-aquarium.pages.dev').replace(/\/$/, ''),
+  url: (process.env.SITE_URL || 'https://crevettesaquarium.pages.dev').replace(/\/$/, ''),
   locale: 'fr_FR',
   lang: 'fr',
 
