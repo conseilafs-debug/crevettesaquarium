@@ -130,6 +130,7 @@ export function shell({ title, desc, path, ogType = 'website', image = ogImage, 
 <html lang="${site.lang}" class="no-js">
 <head>
 <meta charset="utf-8">
+<meta name="google-site-verification" content="8Eum5sM8CKG_pU2vkQdgZWC1FIMhZrVIEEI3VE8otf8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(t)}</title>
 <meta name="description" content="${esc(desc)}">
