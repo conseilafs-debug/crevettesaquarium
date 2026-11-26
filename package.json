@@ -1,0 +1,17 @@
+{
+  "name": "crevettes-aquarium",
+  "version": "1.0.0",
+  "description": "Guide français des crevettes d'aquarium d'eau douce — site statique prêt pour Cloudflare Pages",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/dev.mjs",
+    "suggest": "node scripts/suggest-links.mjs",
+    "test": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
