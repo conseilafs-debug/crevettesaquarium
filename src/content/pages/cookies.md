@@ -5,10 +5,6 @@ title: Politique de cookies
 desc: Ce site ne dépose actuellement aucun cookie de mesure d’audience ni de publicité. Détails et évolutions prévues.
 ---
 
-:::warning Modèle à valider
-Texte à mettre à jour si des services sont ajoutés. Il ne constitue pas un conseil juridique.
-:::
-
 ## Situation actuelle
 
 À sa mise en ligne, ce site **ne dépose aucun cookie** de mesure d’audience ni de publicité. Le seul usage du stockage de votre navigateur est celui de la checklist de démarrage, qui mémorise localement les cases cochées (aucune donnée n’est transmise).

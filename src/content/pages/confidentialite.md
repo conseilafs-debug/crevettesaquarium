@@ -5,10 +5,6 @@ title: Politique de confidentialité
 desc: Quelles données sont (ou ne sont pas) collectées sur ce site, pourquoi, et comment exercer vos droits.
 ---
 
-:::warning Modèle à valider
-Ce texte est un modèle à adapter selon les services effectivement activés (mesure d’audience, publicité…). Il ne constitue pas un conseil juridique.
-:::
-
 ## Responsable du traitement
 
 {{legal.editorName}} — {{legal.editorEmail}}.
