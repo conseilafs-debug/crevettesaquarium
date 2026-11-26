@@ -29,14 +29,14 @@ export const site = {
   // Publicité contextuelle (étape ultérieure). Passer enabled à true et renseigner l'identifiant éditeur.
   adsense: { enabled: false, client: 'ca-pub-XXXXXXXXXXXXXXXX' },
 
-  // Informations légales : champs volontairement NON renseignés. À compléter avant la mise en ligne définitive.
+  // Informations légales : renseignées (Athéna Office).
   legal: {
-    editorName: '[À COMPLÉTER : nom ou raison sociale de l’éditeur]',
-    editorStatus: '[À COMPLÉTER : statut (particulier, micro-entreprise, société…)]',
-    editorAddress: '[À COMPLÉTER : adresse postale]',
-    editorEmail: '[À COMPLÉTER : adresse e-mail de contact]',
-    editorId: '[À COMPLÉTER : SIREN/SIRET si applicable]',
-    publicationDirector: '[À COMPLÉTER : directeur de la publication]',
+    editorName: 'Tiffany Lesieur EI, sous le nom commercial Athéna Office',
+    editorStatus: 'entreprise individuelle (micro-entreprise) ; TVA non applicable, art. 293 B du CGI',
+    editorAddress: '2 résidence Pierre Jacques, rue des Chardonnerets, 62600 Groffliers, France',
+    editorEmail: 'contact@athena-office.fr',
+    editorId: 'SIREN 105 858 328',
+    publicationDirector: 'Philippe Lesieur',
     hostName: 'Cloudflare, Inc.',
     hostAddress: '101 Townsend St, San Francisco, CA 94107, États-Unis',
   },
